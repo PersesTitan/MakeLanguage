@@ -21,4 +21,4 @@
 리턴 타입 : void </br>
 
 # 버전
-  1. V1 - getURL, endCode 추가
+  1. 2022/4/29 V1 - getURL, endCode 추가
