@@ -9,7 +9,7 @@
 라이브러리 들어가서 jar파일을 추가해 주세요.</br>
 </br>
 
-## getURL(args, extension, difCase);
+## getURL(String[] args,String extension,boolean difCase);
 설명 : 파일텍스트를 받고 String 형으로 변환 시키는 메소드 입니다.</br>
 리턴 타입 : String </br>
   * args = main 메소드 값
