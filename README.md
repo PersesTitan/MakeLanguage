@@ -10,9 +10,8 @@
 jar 파일을 다운로드 하신뒤 라이브러리에 jar파일을 추가해 주세요.</br>
 </br>
 
-# 생성자
-GetLine getLine = new GetLine(String[] args, String extension, boolean difCase);</br>
-설명 : 처음 값을 설정하는 매개변수들 입니다.</br>
+## GetLine getLine = new GetLine(String[] args, String extension, boolean difCase);
+설명 : 처음 값을 설정하는 생성자 입니다.</br>
   * args = main 메소드 값
   * extension = 확장자 입력
   * difCase = 확장자 대소문자 구분 허용 (true 대소문자 구분 X)
